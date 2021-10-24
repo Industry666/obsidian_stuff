@@ -1,0 +1,128 @@
+{
+  "main": {
+    "id": "2bf5124c8b9e276b",
+    "type": "split",
+    "children": [
+      {
+        "id": "422e293d7fdf94da",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d2daace0bc4395ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "4eb06bee9d8024db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1028ae41cee18d37",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "1a49b0f1032c26d4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a879222c5974f1f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "84e7769f6cdc9283",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "86cb93e5f15a620b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e9aea5ddda4f3b07",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0baf009a3607e3fe",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "dbdd622d08250a60",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "422e293d7fdf94da",
+  "lastOpenFiles": [
+    "Учёба и карьера./Курсы/Нейронные сети и компьютерное зрение/Математическая модель нейрона..md",
+    "Учёба и карьера./Курсы/Нейронные сети и обработка текста/Особенности обработки естественных языков..md",
+    "Учёба и карьера./Курсы/Нейронные сети и компьютерное зрение/Untitled.md",
+    "Учёба и карьера./Курсы/Нейронные сети и компьютерное зрение/чвс.md",
+    "Untitled.md",
+    "Учёба и карьера./Курсы/Нейронные сети и обработка текста/Лингвистический анализ..md",
+    "Учёба и карьера./Курсы/Нейронные сети и обработка текста/Введения и лингвистические основы..md",
+    "Шаблоны/Шаблон для учёбы 1.md",
+    "Шаблоны/Untitled.md",
+    "Учёба и карьера./Курсы/Нейронные сети и компьютерное зрение/Pasted image 20211005001536.png.md"
+  ]
+}
