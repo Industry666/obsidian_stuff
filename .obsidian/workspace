@@ -1,0 +1,93 @@
+{
+  "main": {
+    "id": "5d013fa12cdafb63",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f6600c7161c3aec",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "My_knowledge_database/Учёба и карьера/Курсы/Нейронные сети и компьютерное зрение/Математическая модель нейрона..md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "efd5efdf3946a197",
+    "type": "split",
+    "children": [
+      {
+        "id": "83690de2b0d0b350",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b80ebcdd73b121b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0942ce513bfdd4f9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a97eec02d6a7803f",
+    "type": "split",
+    "children": [
+      {
+        "id": "63c7087f301fdcc6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d5352732b4ddbd9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "My_knowledge_database/Учёба и карьера/Курсы/Нейронные сети и компьютерное зрение/Математическая модель нейрона..md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "6f6600c7161c3aec",
+  "lastOpenFiles": [
+    "My_knowledge_database/Учёба и карьера/Курсы/Нейронные сети и компьютерное зрение/Математическая модель нейрона..md"
+  ]
+}
