@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6f6600c7161c3aec",
+        "id": "9e7027ccf5aab03f",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "My_knowledge_database/Учёба и карьера/Курсы/Нейронные сети и компьютерное зрение/Математическая модель нейрона..md",
-            "mode": "preview"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My_knowledge_database/Учёба и карьера/Курсы/Нейронные сети и компьютерное зрение/Математическая модель нейрона..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,8 +82,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6f6600c7161c3aec",
+  "active": "9e7027ccf5aab03f",
   "lastOpenFiles": [
-    "My_knowledge_database/Учёба и карьера/Курсы/Нейронные сети и компьютерное зрение/Математическая модель нейрона..md"
+    "My_knowledge_database/Учёба и карьера/Курсы/Нейронные сети и компьютерное зрение/Математическая модель нейрона..md",
+    "My_knowledge_database/Учёба и карьера/Курсы/Нейронные сети и компьютерное зрение/Булевы операции в виде нейронов..md"
   ]
 }
