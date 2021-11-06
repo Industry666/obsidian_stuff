@@ -1,14 +1,17 @@
 {
   "main": {
-    "id": "5d013fa12cdafb63",
+    "id": "ea2f34c39689c18b",
     "type": "split",
     "children": [
       {
-        "id": "9e7027ccf5aab03f",
+        "id": "0ff1bcdd1acc50df",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "My_knowledge_database/Учёба и карьера/Fluent Python/Магические методы или dunder-методы..md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "My_knowledge_database/Учёба и карьера/Fluent Python/Магические методы или dunder-методы..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,8 +86,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9e7027ccf5aab03f",
+  "active": "0ff1bcdd1acc50df",
   "lastOpenFiles": [
+    "My_knowledge_database/Учёба и карьера/Fluent Python/Магические методы или dunder-методы..md",
     "My_knowledge_database/Учёба и карьера/Курсы/Нейронные сети и компьютерное зрение/Математическая модель нейрона..md",
     "My_knowledge_database/Учёба и карьера/Курсы/Нейронные сети и компьютерное зрение/Булевы операции в виде нейронов..md"
   ]
