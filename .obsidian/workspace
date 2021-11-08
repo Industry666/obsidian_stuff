@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "My_knowledge_database/Учёба и карьера/Fluent Python/Магические методы или dunder-методы..md",
+            "file": "My_knowledge_database/Учёба и карьера/Fluent Python/Глава I. Модель данных в языке Python./Магические методы или dunder-методы..md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My_knowledge_database/Учёба и карьера/Fluent Python/Магические методы или dunder-методы..md",
+                "file": "My_knowledge_database/Учёба и карьера/Fluent Python/Глава I. Модель данных в языке Python./Магические методы или dunder-методы..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,7 @@
   },
   "active": "0ff1bcdd1acc50df",
   "lastOpenFiles": [
-    "My_knowledge_database/Учёба и карьера/Fluent Python/Магические методы или dunder-методы..md",
+    "My_knowledge_database/Учёба и карьера/Fluent Python/Глава I. Модель данных в языке Python./Магические методы или dunder-методы..md",
     "My_knowledge_database/Учёба и карьера/Курсы/Нейронные сети и компьютерное зрение/Математическая модель нейрона..md",
     "My_knowledge_database/Учёба и карьера/Курсы/Нейронные сети и компьютерное зрение/Булевы операции в виде нейронов..md"
   ]
